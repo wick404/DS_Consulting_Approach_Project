@@ -26,8 +26,3 @@ You are hired as a data consultant by a fictional telecom company. The company s
 - Python 3.12.4
 - Python package installer (Pip)
 - Visual studio code or Juypter notebook
-
-## Libraries used
-- Please run in the terminal: ``` pip install -r requirements.txt ```
-
-```
